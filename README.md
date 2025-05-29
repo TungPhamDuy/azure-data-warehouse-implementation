@@ -43,7 +43,7 @@ Setting up the necessary Azure resources, including an Azure Synapse Analytics w
 ### Task 2: Design star schema
 Designing the logical and physical star schema for the bikeshare data, identifying fact and dimension tables to optimize analytical queries.
 
-![Task 2: Design Star Schema](evd_task_execute/task2_DesignStarSchema.pdf) *(Note: This is a PDF, so it might not render directly as an image in all Markdown viewers, but it's good to include for completeness.)*
+![Task 2: Design Star Schema](evd_task_execute/task2_DesignStarSchema.png)
 
 ### Task 3: Create data in PostgreSQL (Source)
 Simulating the source operational database by creating and populating tables in PostgreSQL.
