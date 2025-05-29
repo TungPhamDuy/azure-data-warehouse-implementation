@@ -48,12 +48,12 @@ Designing the logical and physical star schema for the bikeshare data, identifyi
 ### Task 3: Create data in PostgreSQL (Source)
 Simulating the source operational database by creating and populating tables in PostgreSQL.
 
-![Task 3: Create Data in PostgreSQL](evd_task_execute/task3_CreateDatainPostgreSQL.png)
+![Task 3: Create Data in PostgreSQL](evd_task_execute/task3_CreateDataInPostgreSQL.png)
 
 ### Task 4: Extract data from PostgreSQL to Blob Storage
 Implementing the extraction process to move raw data from the PostgreSQL source to Azure Blob Storage.
 
-![Task 4: Extract Data From PostgreSQL to Blob](evd_task_execute/task4_ExtractDataFromPostgreSQLtoBlob.png)
+![Task 4: Extract Data From PostgreSQL to Blob](evd_task_execute/task4_ExtractDataFromPostgreSQLToBlob.png)
 
 ### Task 5: Load data into external tables in DWH
 Loading the data from Azure Blob Storage into Azure Synapse Analytics as external tables, making it accessible within the data warehouse.
@@ -63,7 +63,7 @@ Loading the data from Azure Blob Storage into Azure Synapse Analytics as externa
 ### Task 6: Transform data into star schema using CETAS
 Transforming the data from external tables into the final star schema (fact and dimension tables) within Synapse's dedicated SQL pool, often using CETAS (CREATE EXTERNAL TABLE AS SELECT) for efficient data loading and schema creation.
 
-![Task 6: Transform Data Into Star Schema Using CETAS](evd_task_execute/task6_TransformDataintoStarSchemaUsingCetas.png)
+![Task 6: Transform Data Into Star Schema Using CETAS](evd_task_execute/task6_TransfromDataIntoStarSchemaUsingCetas.png)
 
 ## How to replicate
 
